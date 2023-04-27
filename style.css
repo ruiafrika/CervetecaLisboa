@@ -1,0 +1,48 @@
+body{
+    background-image: url(imagens/DALL·E\ 2023-04-27\ 00.28.54.jpg);
+    background-repeat: no-repeat;
+    background-size: 1382px 682px;
+    color: rgb(10, 10, 10);
+    text-align: left;
+    font-family: robotoslab;
+    margin-left: 80;
+}
+h1{
+    font-size: 90px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+}
+p{
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    list-style: none;
+    padding: 260px 0px 0px 350px;
+}
+li{
+    display: inline;
+    padding 100px;
+}
+ol{
+    list-style: none;
+    padding: 100px 0px 0px 950px;
+}
+li{
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+}
+.button{
+    text-decoration: none;
+    font-size: 30px;
+    background-color: rgb(8, 8, 8);
+    color: rgb(255, 255, 255);
+    border-radius: 35px;
+    padding: 25px;
+    margin-right: 50px;
+}
+.button:hover{
+    opacity: 0.5;
+}
